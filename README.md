@@ -67,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
