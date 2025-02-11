@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
