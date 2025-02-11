@@ -1,12 +1,9 @@
+from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        majority_elemnt=[]
-        nums_set=set(nums)
-        for i in nums_set:
-            majority_elemnt.append(nums.count(i))
-        for i in nums_set:
-            if(max(majority_elemnt)==nums.count(i)):
-                return i
-        return 0
-            
+        Dic_nums=Counter(nums)
+        Max_mod=max(Dic_nums.values())
+        for key,value in Dic_nums.items():
+            if value ==Max_mod:
+                return key
         
