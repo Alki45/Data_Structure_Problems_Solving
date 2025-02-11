@@ -5,7 +5,7 @@ class Solution:
             for b in nums2:
                 sum_map[a + b] += 1
         
-        # Step 2: Check sums for nums3 and nums4
+    
         count = 0
         for c in nums3:
             for d in nums4:
