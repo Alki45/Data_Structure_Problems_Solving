@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Simulation
 |  |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Math
 |  |
