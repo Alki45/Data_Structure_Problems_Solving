@@ -1,20 +1,24 @@
 
 class Solution:
     def subdomainVisits(self, cpdomains: List[str]) -> List[str]:
+        result = []
         domain_count = {}
-        
-        for cpdomain in cpdomains:
-            count, domain = cpdomain.split()
-            count = int(count)
-            
-            subdomains = domain.split('.')
+
+        for entry in cpdomains:
+            count, domain = entry.split(" ")
+            count = int(count) 
+            subdomains = domain.split('.')  # Split domain into parts
+
+
             for i in range(len(subdomains)):
-                subdomain = '.'.join(subdomains[i:])
+                # Join subdomain parts
+                subdomain = ".".join(subdomains[i:])  
                 if subdomain in domain_count:
                     domain_count[subdomain] += count
                 else:
                     domain_count[subdomain] = count
-        
-        result = [f"{count} {domain}" for domain, count in domain_count.items()]
-        return result
 
+        for key, value in domain_count.items():
+            result.append(f"{value} {key}")
+
+        return result
