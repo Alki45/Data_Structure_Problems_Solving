@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
+| [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0858-masking-personal-information) |
