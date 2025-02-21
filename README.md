@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Simulation
@@ -141,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
