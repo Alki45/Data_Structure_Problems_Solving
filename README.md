@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0217-contains-duplicate) |
