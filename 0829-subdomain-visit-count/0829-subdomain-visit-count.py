@@ -7,11 +7,10 @@ class Solution:
         for entry in cpdomains:
             count, domain = entry.split(" ")
             count = int(count) 
-            subdomains = domain.split('.')  # Split domain into parts
+            subdomains = domain.split('.')  
 
 
             for i in range(len(subdomains)):
-                # Join subdomain parts
                 subdomain = ".".join(subdomains[i:])  
                 if subdomain in domain_count:
                     domain_count[subdomain] += count
