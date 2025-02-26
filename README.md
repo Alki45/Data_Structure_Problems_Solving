@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
 | [1651-shuffle-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
+## Design
+|  |
+| ------- |
+| [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
 <!---LeetCode Topics End-->
