@@ -1,7 +1,10 @@
 class Cashier:
 
     def __init__(self, n: int, discount: int, products: List[int], prices: List[int]):
-        self.price=dict(zip(products,prices))
+        price={}
+        for i,p in enumerate(products):
+            price[p]=prices[i]
+        self.price=price
         self.discount=discount
         self.n=n
         self.customer_count=0
