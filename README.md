@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
+| [2737-row-with-maximum-ones](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2737-row-with-maximum-ones) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Simulation
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2737-row-with-maximum-ones](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2737-row-with-maximum-ones) |
 ## Design
 |  |
 | ------- |
