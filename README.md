@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2737-row-with-maximum-ones) |
+| [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Simulation
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
 ## Hash Table
 |  |
 | ------- |
