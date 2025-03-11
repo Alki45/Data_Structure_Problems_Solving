@@ -3,9 +3,7 @@ class Solution:
         if(len(skill)==2):
             return skill[0]*skill[1]
         l,r=0,len(skill)-1
-        count=-1
         skill.sort()
-        skill_team={}
         target=skill[1]+skill[-2]
         product=0
         while (l<r):
