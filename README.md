@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2737-row-with-maximum-ones](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2737-row-with-maximum-ones) |
 | [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
 ## String
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
