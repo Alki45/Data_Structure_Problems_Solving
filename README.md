@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
