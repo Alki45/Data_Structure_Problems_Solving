@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2491-smallest-even-multiple](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2556-convert-the-temperature) |
 ## Sorting
 |  |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1813-maximum-erasure-value](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
