@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0414-third-maximum-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
 | [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
 ## Game Theory
 |  |
