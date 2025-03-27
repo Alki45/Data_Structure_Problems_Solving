@@ -1,7 +1,8 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        New_nums=set([x for x in range(len(nums)+1)])
-        missing_num=list(New_nums - set(nums))
-        for i in missing_num:
-            return i
+        dict_num={num:num for num in range(len(nums)+1)}
+        nums.sort()
+        new_list=[num for num in dict_num.values()]
+        return (list(set(new_list) - set(nums))[0])
+
         
