@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1168-duplicate-zeros) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
