@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2491-smallest-even-multiple](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2491-smallest-even-multiple) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
