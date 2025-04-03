@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2737-row-with-maximum-ones](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2737-row-with-maximum-ones) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1813-maximum-erasure-value](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Number Theory
 |  |
 | ------- |
