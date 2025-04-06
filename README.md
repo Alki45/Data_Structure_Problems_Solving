@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
 | [1813-maximum-erasure-value](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
