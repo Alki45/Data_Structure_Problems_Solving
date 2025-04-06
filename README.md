@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0940-fruit-into-baskets) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
+| [0940-fruit-into-baskets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
