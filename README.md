@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0858-masking-personal-information) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1813-maximum-erasure-value) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
