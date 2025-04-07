@@ -14,8 +14,8 @@ class Solution:
             write += 1
             
             if count > 1:
-                for c in str(count):
-                    chars[write] = c
+                for i in str(count):
+                    chars[write] = i
                     write += 1
         
         return write
