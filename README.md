@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2465-shifting-letters-ii) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
