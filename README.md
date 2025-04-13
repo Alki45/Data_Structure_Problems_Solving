@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0217-contains-duplicate) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
