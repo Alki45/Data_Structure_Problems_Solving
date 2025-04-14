@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1880-largest-merge-of-two-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1880-largest-merge-of-two-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1880-largest-merge-of-two-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1880-largest-merge-of-two-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1880-largest-merge-of-two-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1880-largest-merge-of-two-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
