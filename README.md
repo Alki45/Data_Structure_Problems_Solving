@@ -350,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1028-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
