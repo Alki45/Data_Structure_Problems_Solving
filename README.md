@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0203-remove-linked-list-elements) |
