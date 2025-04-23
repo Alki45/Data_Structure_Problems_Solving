@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2551-apply-operations-to-an-array) |
+| [3447-clear-digits](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2465-shifting-letters-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [3447-clear-digits](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3447-clear-digits](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
