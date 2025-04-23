@@ -1,7 +1,6 @@
 class Solution:
     def clearDigits(self, s: str) -> str:
         strs=list(s)
-        stack=[]
         l=0
 
 
