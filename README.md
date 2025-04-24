@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0940-fruit-into-baskets) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [1720-crawler-log-folder](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -411,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
