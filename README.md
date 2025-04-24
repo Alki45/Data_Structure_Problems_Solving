@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
 | [1720-crawler-log-folder](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1720-crawler-log-folder) |
