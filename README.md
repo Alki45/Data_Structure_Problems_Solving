@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
 | [1720-crawler-log-folder](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
 ## Data Stream
 |  |
 | ------- |
