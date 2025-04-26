@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0838-design-linked-list) |
 | [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
