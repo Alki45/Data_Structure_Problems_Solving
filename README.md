@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Counting
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0838-design-linked-list) |
 | [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Game Theory
 |  |
 | ------- |
@@ -416,8 +419,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
+## Data Stream
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
