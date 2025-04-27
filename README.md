@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1813-maximum-erasure-value) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2048-build-array-from-permutation) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2491-smallest-even-multiple](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2556-convert-the-temperature) |
 ## Sorting
@@ -422,10 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
