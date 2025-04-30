@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0503-next-greater-element-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Counting Sort
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 ## Line Sweep
 |  |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
