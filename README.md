@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2210-find-target-indices-after-sorting-array) |
