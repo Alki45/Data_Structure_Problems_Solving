@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
