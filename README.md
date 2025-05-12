@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0940-fruit-into-baskets) |
+| [1002-maximum-width-ramp](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0908-middle-of-the-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1168-duplicate-zeros) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1002-maximum-width-ramp) |
 | [1720-crawler-log-folder](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1002-maximum-width-ramp) |
 ## Data Stream
 |  |
 | ------- |
