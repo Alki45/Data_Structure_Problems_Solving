@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
@@ -496,13 +497,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
