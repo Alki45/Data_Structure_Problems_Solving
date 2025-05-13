@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0203-remove-linked-list-elements) |
