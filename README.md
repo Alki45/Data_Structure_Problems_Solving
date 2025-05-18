@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0567-permutation-in-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0503-next-greater-element-ii) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
