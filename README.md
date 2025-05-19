@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [0860-design-circular-queue](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0860-design-circular-queue) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
