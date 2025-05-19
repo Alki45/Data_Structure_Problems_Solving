@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0394-decode-string) |
