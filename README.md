@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0908-middle-of-the-linked-list) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0617-merge-two-binary-trees) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
