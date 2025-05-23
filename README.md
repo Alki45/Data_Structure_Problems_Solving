@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
 | [1603-running-sum-of-1d-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1651-shuffle-string) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1720-crawler-log-folder) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
