@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0061-rotate-list) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0020-valid-parentheses) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
