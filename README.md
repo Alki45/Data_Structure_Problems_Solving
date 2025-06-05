@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -583,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
