@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0661-image-smoother](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0739-daily-temperatures) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
