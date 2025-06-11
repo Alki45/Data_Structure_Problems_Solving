@@ -11,7 +11,7 @@ class Solution:
             for j in range(len(img1[0])):
                 if img1[i][j] == 1:
                     a.append((i, j))
-                if img2[i][j] == 1:  # Corrected here
+                if img2[i][j] == 1:  
                     b.append((i, j))
         
         ans = 0
