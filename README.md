@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0436-find-right-interval) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0436-find-right-interval) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0829-subdomain-visit-count](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0829-subdomain-visit-count) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
@@ -445,11 +450,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
@@ -616,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
