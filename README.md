@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0056-merge-intervals) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0075-sort-colors) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
 ## Bucket Sort
