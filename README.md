@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1028-interval-list-intersections) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1675-magnetic-force-between-two-balls) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1880-largest-merge-of-two-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1880-largest-merge-of-two-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
