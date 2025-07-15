@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0075-sort-colors) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 ## Line Sweep
