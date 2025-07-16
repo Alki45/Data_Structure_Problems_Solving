@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 | [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
 | [1603-running-sum-of-1d-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1651-shuffle-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0461-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
+| [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
+| [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 ## Line Sweep
 |  |
 | ------- |
@@ -633,8 +636,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
+| [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
