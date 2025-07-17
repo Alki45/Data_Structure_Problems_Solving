@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1028-interval-list-intersections) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-two-city-scheduling](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1095-two-city-scheduling) |
 | [1217-relative-sort-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1675-magnetic-force-between-two-balls) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0680-valid-palindrome-ii) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1095-two-city-scheduling) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1880-largest-merge-of-two-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1880-largest-merge-of-two-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
