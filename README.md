@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1880-largest-merge-of-two-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1880-largest-merge-of-two-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -651,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
