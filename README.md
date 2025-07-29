@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0189-rotate-array) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 ## Monotonic Queue
 |  |
