@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0447-number-of-boomerangs) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
