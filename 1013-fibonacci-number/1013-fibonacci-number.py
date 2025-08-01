@@ -1,12 +1,17 @@
 class Solution:
-    def __init__(self):
-        self.memo = defaultdict(int)
+
     def fib(self, n: int) -> int:
-        memo = defaultdict(int)
-        if n == 0 or  n == 1:
-            return n
-        if n not in self.memo:
-            self.memo[n] = self.fib(n-1) + self.fib(n-2)
-        return self.memo[n]
+        memo = {}
+        def mem(i):
+            if i == 0 or i == 1:
+                return i
+            if i not in memo:
+                memo[i] = mem(i-1) + mem(i-2)
+            return memo[i]
+        return mem(n)
+            
+
+
+            
         
         
