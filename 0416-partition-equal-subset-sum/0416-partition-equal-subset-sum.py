@@ -1,14 +1,22 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        total_sum = sum(nums)
-        if total_sum % 2 != 0:
+        set_element=set([0])
+        total = sum(nums)
+        if total % 2 != 0:
             return False
-        target = total_sum // 2
-        dp = [False] * (target + 1)
-        dp[0] = True
+        target = total // 2
         for num in nums:
-            for i in range(target, num - 1, -1):
-                dp[i] = dp[i] or dp[i - num]
-        return dp[target]
+            new_sum = set()
+            for element in set_element:
+                if num + element == target:
+
+                    return True
+                else:
+                    new_sum.add (num + element)
+            set_element.update(new_sum)
+        return target in set_element
+
+
+
 
         
