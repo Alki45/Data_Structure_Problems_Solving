@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0113-path-sum-ii) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
