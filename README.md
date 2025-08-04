@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0445-add-two-numbers-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0344-reverse-string) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0113-path-sum-ii) |
+| [0282-expression-add-operators](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
