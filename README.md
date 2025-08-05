@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0172-factorial-trailing-zeroes) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0198-house-robber) |
@@ -680,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
