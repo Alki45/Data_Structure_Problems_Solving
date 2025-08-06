@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0503-next-greater-element-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 ## Line Sweep
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0113-path-sum-ii) |
 | [0282-expression-add-operators](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0494-target-sum) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Bucket Sort
