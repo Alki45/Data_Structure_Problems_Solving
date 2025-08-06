@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0416-partition-equal-subset-sum) |
