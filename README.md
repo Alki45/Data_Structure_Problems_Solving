@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0049-group-anagrams) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0605-can-place-flowers) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0062-unique-paths) |
