@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0414-third-maximum-number) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0494-target-sum) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0617-merge-two-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
