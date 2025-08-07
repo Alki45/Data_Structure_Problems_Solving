@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2048-build-array-from-permutation) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1880-largest-merge-of-two-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1880-largest-merge-of-two-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2032-largest-odd-number-in-string) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3151-minimum-processing-time](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/3151-minimum-processing-time) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
