@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 | [1459-apply-discount-every-n-orders](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1459-apply-discount-every-n-orders) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1651-shuffle-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1675-magnetic-force-between-two-balls) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0967-minimum-falling-path-sum) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2737-row-with-maximum-ones](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2737-row-with-maximum-ones) |
 ## Design
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0617-merge-two-binary-trees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1005-univalued-binary-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1005-univalued-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0617-merge-two-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1005-univalued-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -727,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
