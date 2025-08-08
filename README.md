@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0661-image-smoother) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1236-n-th-tribonacci-number) |
