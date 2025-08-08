@@ -8,6 +8,6 @@ class Solution:
         for coin in coins:
             for i in range (coin, amount + 1):
                 dp[i] += dp[ i - coin]
-        #print(dp)
+
         return dp[amount]
         
