@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2262-solving-questions-with-brainpower](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2262-solving-questions-with-brainpower) |
 ## Line Sweep
 |  |
 | ------- |
