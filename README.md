@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
 ## Line Sweep
 |  |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Queue
 |  |
 | ------- |
