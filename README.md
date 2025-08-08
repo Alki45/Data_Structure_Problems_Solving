@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0940-fruit-into-baskets) |
+| [0967-minimum-falling-path-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0861-flipping-an-image) |
 | [0864-image-overlap](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0967-minimum-falling-path-sum) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2737-row-with-maximum-ones](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/2737-row-with-maximum-ones) |
 ## Design
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0494-target-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Alki45/Data_Structure_Problems_Solving/tree/master/1418-fair-distribution-of-cookies) |
